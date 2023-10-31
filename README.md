@@ -1,7 +1,7 @@
 # Data Pipeline on GCP
 
 ---
-    GCP Services for Data Engineering
+    GCP and Open-Source Services for Data Engineering
         > Data Warehouse: 
             BigQuery
         > Data Lake: 
@@ -50,3 +50,8 @@
                 BigQuery
             6. Data Visualization Tool?
                 Looker Studio
+                
+---
+Resources:
+* Repository: https://github.com/mregojos/data-pipeline-gcp
+* GCP Documentation: https://cloud.google.com/docs
