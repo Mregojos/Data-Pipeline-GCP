@@ -31,9 +31,11 @@
         1. ETL
             a. Unprocessed Data -> Data Processing -> Processed Data (Data Warehouse)
             b. Unprocessed Data -> Data Processing -> Processed Data (Data Lake)
+            c. Unprocessed Data -> Data Processing -> Processed Data (Database)
         2. ELTL
             a. Unprocessed Data -> Unprocessed Data (Data Lake) -> Data Processing -> Processed Data (Data Warehouse)
 
+---
     Project:
         ELTL: Unprocessed Data -> Unprocessed Data (Data Lake) -> Data Processing -> Processed Data (Data Warehouse) for Analytics & Processed Data (Data Lake) for Archieving -> Data Visualization
 
@@ -43,7 +45,7 @@
             3. Data Processing?
                 What tool to use for data processing?
                     * Python
-                What'll be data processing strategy?
+                What'll be the data processing strategy?
             4. Data Lake?
                 * Cloud Storage
             5. Data Warehousing?
@@ -53,5 +55,5 @@
                 
 ---
 Resources:
-* Repository: https://github.com/mregojos/data-pipeline-gcp
+* GitHub Repository: https://github.com/mregojos/data-pipeline-gcp
 * GCP Documentation: https://cloud.google.com/docs
