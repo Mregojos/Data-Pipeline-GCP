@@ -56,4 +56,5 @@
 ---
 Resources:
 * GitHub Repository: https://github.com/mregojos/data-pipeline-gcp
+* GitHub Repository Tech Stack for Data and ML Engineering: https://github.com/mregojos/tech-stack-data-ml
 * GCP Documentation: https://cloud.google.com/docs
